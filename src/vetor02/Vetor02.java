@@ -39,7 +39,7 @@ public class Vetor02 {
             {
             for(int c=0; c<mes.length; c++){    
             System.out.println("O mês de " + mes[c] + " tem " +
-                    tot[c] + " dias ao todo.");
+                    tot[c] + " dias ao todo");
            
                     }
                }
@@ -47,7 +47,7 @@ public class Vetor02 {
             System.out.println("Quantidade de dias: " + total);{
             for(int c=0; c<mes.length; c++){
             System.out.println("O mês de " + mes[c] + " tem " +
-                    tot[c]  + " dias ao todo.");
+                    tot[c]  + " dias ao todo");
                 }
                 
             }         
